@@ -24,7 +24,5 @@ This E-commerce Sales Dashboard is built using Power BI to analyze sales trends,
 
 ✅ Power BI – Data visualization & interactive dashboard creation
 
-✅ DAX (Data Analysis Expressions) – For calculated measures and advanced analytics
-
 ✅ Excel / CSV Dataset – Source data for analysis
 
