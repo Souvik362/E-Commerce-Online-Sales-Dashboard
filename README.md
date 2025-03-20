@@ -20,6 +20,7 @@ This E-commerce Sales Dashboard is built using Power BI to analyze sales trends,
 
 🔹 Profit Breakdown by Category & Subcategory – Identify high and low-performing product groups.
 
+
 **🛠️ Tools & Technologies Used**
 
 ✅ Power BI – Data visualization & interactive dashboard creation
